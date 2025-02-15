@@ -1,6 +1,6 @@
- Arduino program that measures distance using an ultrasonic sensor.
+ Arduino program that **measures distance** using an **ultrasonic sensor**.
  
- It works as follows:
+**It works as follows:**
 
 Defines TRIG_PIN (D9) and ECHO_PIN (D10) for triggering and receiving signals.
 
